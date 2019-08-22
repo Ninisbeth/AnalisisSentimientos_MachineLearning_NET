@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalisisSentimientos", "AnalisisSentimientos\AnalisisSentimientos.csproj", "{58AFFEBD-2E42-4EED-BE71-88FA46B39982}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58AFFEBD-2E42-4EED-BE71-88FA46B39982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58AFFEBD-2E42-4EED-BE71-88FA46B39982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58AFFEBD-2E42-4EED-BE71-88FA46B39982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58AFFEBD-2E42-4EED-BE71-88FA46B39982}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1891A570-BA0F-4CDA-BA71-D515A14F4DDE}
+	EndGlobalSection
+EndGlobal
